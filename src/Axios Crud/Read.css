@@ -1,0 +1,27 @@
+.section{
+     width: 20%;
+     border: 2px solid black;
+     padding-left: 20px;
+     margin-left: 500px;
+     margin-top: 200px;
+     padding: 15px;
+     border-radius: 5px;
+     background-color: plum;
+}
+
+.readh1{
+   margin-left: 45px;
+}
+.span{
+    margin-left: 45px; 
+}
+
+.btn{
+    margin-bottom: 2px;
+    margin-left: 45px;
+ }
+
+
+.btn2{
+    margin-left: 15px;
+}

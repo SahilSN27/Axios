@@ -1,0 +1,48 @@
+table, thead, td {
+    border:1px solid black;
+    padding: 8px;
+    
+  }
+
+
+.Home{
+    margin:auto;
+    width: 50%;
+    margin-top: 30px;
+
+}
+
+.thead{
+    background-color: greenyellow;
+}
+
+.table{
+    background-color: plum;
+    
+}
+
+button{
+    padding: 10px;
+    background-color: aquamarine;
+}
+
+.Read{
+    
+}
+
+.Edit{
+    background-color:red;
+    margin-left: 5px;
+}
+
+.Delete{
+    background-color:darkseagreen;
+    margin-left: 5px;
+}
+
+.Add{
+    padding: 10px 25px;
+    margin: 10px;
+    background-color: darkblue;
+    color: aliceblue;
+}

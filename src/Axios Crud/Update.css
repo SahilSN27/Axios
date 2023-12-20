@@ -1,0 +1,31 @@
+.form{
+     width: 20%;
+     border: 2px solid black;
+     padding-left: 20px;
+     margin-left: 500px;
+     margin-top: 200px;
+     padding: 15px;
+     border-radius: 5px;
+     background-color: plum;
+
+}
+
+.btn{
+    margin-bottom: 2px;
+    margin-left: 35px;
+    background-color: orange;
+    
+    
+}
+
+input{
+    margin-left: 35px;
+}
+
+.btn2{
+    margin-left: 15px;
+    background-color: yellow;
+}
+
+
+
